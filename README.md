@@ -1,3 +1,4 @@
+![Coder SVG](https://raw.githubusercontent.com/duongvancuong/duongvancuong/master/coder.gif)
 ### Hi there 👋
 
 Hello I'm Cuong, you can also call me "Tekfun" It's just a nickname. 
