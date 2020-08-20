@@ -12,8 +12,6 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=4FC08D&color=4FC08D)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
