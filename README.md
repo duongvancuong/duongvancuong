@@ -15,11 +15,11 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)
+![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=EE0000&color=EE0000)
 ![](https://img.shields.io/badge/Tools-Vim-informational?style=flat&logo=vim&logoColor=019733&color=019733)
-![](https://img.shields.io/badge/Clould-AWS-informational?style=flat&logo=amazon-aws&logoColor=232F3E&color=232F3E)
+![](https://img.shields.io/badge/Clould-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 
 ## &#x1f4c8; GitHub Stats
