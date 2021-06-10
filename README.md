@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Cuong, nick name Tek
-#### I am web developer
-![I am web developer](https://raw.githubusercontent.com/duongvancuong/duongvancuong/master/coder.gif)
+### Hi there 👋, my name is 🅲🆄🅾🅽🅶, nick name 🆃🅴🅺
+#### 𝕀 𝕒𝕞 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
+![I am 🄳🄴🅅🄴🄻🄾🄿🄴🅁](https://raw.githubusercontent.com/duongvancuong/duongvancuong/master/coder.gif)
 
 
 - 🔭 I’m currently working on this page. 
 
 
-## 🔧 Technologies & Tools
+## 🔧 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂 - 🆃🅾🅾🅻🆂
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=CC342D)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Clould-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
 <a href="https://github.com/duongvancuong/duongvancuong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongvancuong&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
