@@ -1,0 +1,39 @@
+name: Generate Contribution Snake
+
+on:
+  # Chạy lại mỗi 12 giờ để snake bò theo contribution mới nhất
+  schedule:
+    - cron: "0 */12 * * *"
+  # Cho phép bấm "Run workflow" thủ công trong tab Actions
+  workflow_dispatch:
+  # Tự generate khi có push vào master (ví dụ khi sửa README)
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate snake SVG (light + dark) with Game Boy DMG palette
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Light theme  → tông LCD Game Boy olive
+          # Dark theme   → giữ contrast đủ đọc trên nền tối GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%230F380F&color_dots=%239BBC0F,%238BAC0F,%23306230,%230F380F,%230F380F
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%239BBC0F&color_dots=%230F380F,%23306230,%238BAC0F,%239BBC0F,%239BBC0F
+
+      - name: Push generated SVGs to the `output` branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
