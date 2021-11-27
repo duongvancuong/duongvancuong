@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is 🅲🆄🅾🅽🅶, nick name 🆃🅴🅺
 #### 𝕀 𝕒𝕞 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣
-![I am 🄳🄴🅅🄴🄻🄾🄿🄴🅁](https://raw.githubusercontent.com/duongvancuong/duongvancuong/master/coder.gif)
-
 
 - 🔭 I’m currently working on this page. 
 
