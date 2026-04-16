@@ -189,12 +189,34 @@ Starting in  3 ... 2 ... 1 ... FIGHT!
 
 ---
 
-## &#x1F3C6; &nbsp; TROPHY CABINET
+## &#x1F3C6; &nbsp; ACHIEVEMENTS UNLOCKED
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   [★]  FIRST COMMIT              "Hello, World!"             ║
+║   [★]  100 COMMITS CLUB          "Just warming up"           ║
+║   [★]  OPEN SOURCE HERO          "Made a public repo"        ║
+║   [★]  BUG SLAYER                "Closed 50+ issues"         ║
+║   [★]  POLYGLOT                  "5+ languages mastered"     ║
+║   [★]  CONTAINER CAPTAIN         "Dockerized everything"     ║
+║   [★]  CLOUD SURFER              "Deployed on AWS"           ║
+║   [★]  NIGHT OWL                 "Commit after midnight"     ║
+║   [★]  COFFEE ADDICT             "∞ cups, still standing"    ║
+║   [★]  VIM SURVIVOR              ":wq — escaped alive"       ║
+║   [☆]  RUBBER DUCK MASTER        "???  <locked>"             ║
+║   [☆]  KUBERNETES TAMER          "???  <locked>"             ║
+║                                                              ║
+║                   PROGRESS  ████████████░░░   80 %           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+## &#x1F4CA; &nbsp; ACTIVITY GRAPH
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=duongvancuong&theme=gruvbox&column=7&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duongvancuong&bg_color=9BBC0F&color=0F380F&line=306230&point=0F380F&area_color=8BAC0F&title_color=0F380F&area=true&hide_border=false&custom_title=COMMITS%20PER%20DAY%20%E2%80%94%20LAST%2031%20DAYS" alt="activity graph" />
 </a>
 
 </div>
