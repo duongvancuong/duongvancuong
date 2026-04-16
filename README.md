@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F380F,45:306230,100:8BAC0F&height=230&section=header&text=cuong%40github%3A~%24&fontSize=60&fontColor=9BBC0F&animation=twinkling&fontAlignY=38&desc=%E2%96%B6%20A%20DEVELOPER%20IN%20PIXELS%20AND%20TERMINALS&descSize=18&descAlignY=62&descAlign=50" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1800&pause=600&color=306230&center=true&vCenter=true&multiline=true&width=780&height=160&lines=%24+.%2Fboot.sh;%5B+OK+%5D+Loaded+developer.ko;%5B+OK+%5D+Mounted+%2Fdev%2Fskills+(%E2%88%9E+bytes);%5B+OK+%5D+Started+coffee.service;%5B+OK+%5D+Reached+target+HELLO_WORLD;Welcome+to+DeveloperOS+10.x+(GNU%2FLinux+cuong-v99)" alt="boot" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=1800&pause=600&color=306230&center=true&vCenter=true&multiline=true&width=780&height=160&lines=%24+.%2Fboot.sh;%5B+OK+%5D+Loaded+developer.ko;%5B+OK+%5D+Mounted+%2Fdev%2Fskills+(%E2%88%9E+bytes);%5B+OK+%5D+Started+coffee.service;%5B+OK+%5D+Reached+target+HELLO_WORLD;Welcome+to+DeveloperOS+10.x+(GNU%2FLinux+cuong-v99)" alt="boot" />
 </a>
 
 </div>
